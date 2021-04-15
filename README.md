@@ -16,7 +16,7 @@ A few **analytics results** are added to the bottom left part of the page in ord
 Packages used: `shiny`, `ggplot2`, `tidyverse`, `dplyr`, `extrafont`.
 In case you need to install one of them, please, just run on RStudio the code `install.packages(packagename)`, where `packagename` correspond to the name of one of the packages mentioned above.
 
-i.e. One of the package you may need to install is `extrafont`. After having installed it, to make it effective in Rstudio, run the command `font_import()`. This will make available in RStudio a set of fonts already used in the most common programs. 
+i.e. One of the package you may need to install is `extrafont`. After having installed it, to make it effective in Rstudio, run the command `font_import()`. This will make available in RStudio a set of fonts already used in the most common programs. To make sure the procedure has been completed, restart RStudio. 
 
 #### To guide you through the application I prepared a few examples. 
 - By default, the Shiny App will show results about Segment = "Corporate", Region = "Central" and Date Range that goes from "2015-01-03" to "2018-12-30" (the very first and very last dates in the dataset).
