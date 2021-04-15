@@ -15,6 +15,7 @@ A few **analytics results** are added to the bottom left part of the page in ord
 
 Packages used: `shiny`, `ggplot2`, `tidyverse`, `dplyr`, `extrafont`.
 In case you need to install one of them, please, just run on RStudio the code `install.packages(packagename)`, where `packagename` correspond to the name of one of the packages mentioned above.
+
 i.e. One of the package you may need to install is `extrafont`. After having installed it, to make it effective in Rstudio, run the command `font_import()`. This will load in the extrafont database a set of the most common fonts. 
 
 #### To guide you through the application I prepared a few examples. 
