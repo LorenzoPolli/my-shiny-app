@@ -22,3 +22,7 @@ In case you need to install one of them, please, just run on RStudio the code `i
 - Or even Segment = "Home Office", Region = "West", and Date Range from "2017-06-15" to "2018-08-15".
 
 Finally, I invite you to select the input as you better prefer, and to enjoy the app by looking at the results displayed! 
+
+
+
+Note: to have a neat experience, I suggest you to open the app full page. 
