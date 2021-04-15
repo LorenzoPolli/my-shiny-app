@@ -5,7 +5,7 @@ The idea behind the Shiny App I developed is to give the possibility to visualiz
 The dataset is composed by **18 columns** representing the variables and **9800 rows** representing the data.
 
 The main columns analyzed are **State**, **Region**, **Order Date**, **Segment** and **Sales**. 
-The goals is to give the user the possibility to interact with **three input widgets**: the first one allows him/her to **choose a specific Segment** among three choices, the second to select **the Region** corresponding to a determined set of US States, **and** the last one to select **the range of date** among products were ordered by customers.
+The goal is to give the user the possibility to interact with **three input widgets**: the first one allows him/her to **choose a specific Segment** among three choices, the second to select **the Region** corresponding to a determined set of US States, **and** the last one to select **the range of dates** which corresponds to the period of sales.
 
 A **bar chart** representing the Aggregate Sales by US State for the selected segment is plotted on the top right part of the page.
 A **line graph** representing the Aggregate Regional Sales by by Date is plotted on the bottom right part of the page.
