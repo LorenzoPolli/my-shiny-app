@@ -1,5 +1,5 @@
 # MyShinyApp
-It includes my project in R for the exam of the R module from the Coding for Data Science Master course.
+It includes my project in R for the exam of the R module from the Coding for Data Science Master course
 
 The idea behind the Shiny App I developed is to give the possibility to visualize some interactive data about a **US Superstore Sales dataset**.
 The dataset is composed by **18 columns** representing the variables and **9800 rows** representing the data.
